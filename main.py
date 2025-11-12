@@ -1,1 +1,1 @@
-print("OCTOWARE BEST")
+print("OCTOWARE THE BEST")
